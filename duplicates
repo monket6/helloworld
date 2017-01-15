@@ -1,0 +1,7 @@
+how to select the duplicate records from a database using SQL, with the example below
+
+ID AGE SEX
+01 12 F
+02 18 M
+01 12 F
+05 16 M
